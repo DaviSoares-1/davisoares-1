@@ -1,6 +1,6 @@
 # Olá, meu nome é Davi, seja muito bem vindo(a)!! 👋
 
-<img align='right' src="https://64.media.tumblr.com/tumblr_lwa95v31MU1qgwsj9o1_250.gif" width="100">
+<img align='right' src="https://64.media.tumblr.com/tumblr_lwa95v31MU1qgwsj9o1_250.gif" width="150">
 
 <div align="left">
   <a href="https://github.com/DaviSoares-1">
@@ -21,6 +21,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" height="36"/>
 </p>
 
-### 📮 Social
+### 📮 Redes Sociais
   
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-soares-a6bb87263/)
