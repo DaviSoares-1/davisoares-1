@@ -1,5 +1,7 @@
 # Olá, meu nome é Davi, seja muito bem vindo(a)!! 👋
 
+<img align='right' src="https://64.media.tumblr.com/tumblr_lwa95v31MU1qgwsj9o1_250.gif" width="100">
+
 <div align="left">
   <a href="https://github.com/DaviSoares-1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaviSoares-1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
