@@ -1,8 +1,4 @@
-# Olá, meu nome é Davi! 👋
-
-## 🚀 Desenvolvedor Front End focado em criar interfaces elegantes, modernas e de alta qualidade.
-
-### 📈 Meus status
+# Olá, meu nome é Davi, seja muito bem vindo(a)!! 👋
 
 <div align="left">
   <a href="https://github.com/DaviSoares-1">
