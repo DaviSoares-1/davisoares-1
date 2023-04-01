@@ -1,8 +1,5 @@
 # Olá, meu nome é Davi Soares! 👋
 
-- 🌍 Rio de Janeiro / RJ - Brasil
-- ✉️ Email: [davi_soaresp@outlook.com](mailto:davi_soaresp@outlook.com)
-
 <div align="center">
   <a href="https://github.com/DaviSoares-1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaviSoares-1&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
