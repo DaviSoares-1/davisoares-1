@@ -5,7 +5,8 @@
 - 🌍 Rio de Janeiro / RJ - Brasil
 - ✉️ Email: [davi_soaresp@outlook.com](mailto:davi_soaresp@outlook.com)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviSoares-1&show_icons=true&theme=dracula)
+<a href="https://github.com/DaviSoares-1">
+<img src="https://github-readme-stats.vercel.app/api?username=DaviSoares-1&show_icons=true&theme=dracula" alt="DaviSoares-1 GitHub stats"/></a>
 
 ### 🛠 Tech Stack
 
@@ -24,5 +25,3 @@
 ### 📮 Social
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-soares-a6bb87263/) [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DaviSoares-1)
-
-![Snake animation](https://github.com/brseghese/brseghese/blob/output/github-contribution-grid-snake.svg)
