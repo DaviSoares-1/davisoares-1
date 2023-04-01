@@ -1,4 +1,4 @@
-# Olá, meu nome é Davi, seja muito bem vindo(a)!! 👋
+# Olá, eu sou Davi Soares, seja muito bem vindo(a)!! 👋
 
 <img align='right' src="https://64.media.tumblr.com/tumblr_lwa95v31MU1qgwsj9o1_250.gif" width="150">
 
