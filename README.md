@@ -1,5 +1,5 @@
 # 👨‍💻 Sobre mim:
-<p>Olá, eu sou Davi Soares, seja muito bem vindo(a) ao meu portfólio!! Sou um desenvolvedor Front End em constante evolução, <br> tenho como foco a área de desenvolvimento Web/Mobile e sou apaixonado pelos desafios que a programação proporciona. <img align='right' src="https://64.media.tumblr.com/tumblr_lwa95v31MU1qgwsj9o1_250.gif" width="150"></p>
+<p>Olá, eu sou Davi Soares, seja muito bem vindo(a) ao meu portfólio!! Sou um desenvolvedor Front End em constante evolução, <br> tenho como foco a área de desenvolvimento Web/Mobile e sou apaixonado pelos desafios que a programação proporciona.</p> <img align='right' src="https://64.media.tumblr.com/tumblr_lwa95v31MU1qgwsj9o1_250.gif" width="150">
 
 ## 📮 Fale comigo:
 [![Linkedin: davisoares](https://img.shields.io/badge/-davisoares-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davisoares/)](https://www.linkedin.com/in/davi-soares-a6bb87263/) [![Discord:](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/G4AHw4uF)
