@@ -9,7 +9,7 @@
 ## 📊 GitHub Stats:
 ![](https://personal-readme-stats.vercel.app/api?username=DaviSoares-1&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DaviSoares-1&theme=nightowl&hide_border=false)<br/>
-![](https:/personal-readme-stats.vercel.app/api/top-langs/?username=DaviSoares-1&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https:/github-readme-stats.vercel.app/api/top-langs/?username=DaviSoares-1&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🎁 Você pode me ajudar com uma doação:
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?business=2UFEE4TZ63GJL&no_recurring=0&currency_code=BRL)
