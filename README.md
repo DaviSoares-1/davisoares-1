@@ -1,8 +1,8 @@
 # 👨‍💻 About me:
 <p>Hey everyone, I'm Davi Soares, welcome to my portfolio!! I'm a Front End developer in constant evolution, <br> my focus is on the Web/Mobile development area and I'm passionate about the challenges that programming provides.</p> <img align='right' src="https://64.media.tumblr.com/tumblr_lwa95v31MU1qgwsj9o1_250.gif" width="150">
 
-# 📮 Say hello to me:
+# 📮 My Social Media:
 [![Linkedin: davisoares](https://img.shields.io/badge/-davisoares-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davisoares/)](https://www.linkedin.com/in/davi-soares-a6bb87263/)
 
-# 🛠 Languages and Tools:
+# 🛠 My Skills:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) <br> ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
