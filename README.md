@@ -1,7 +1,7 @@
 # 👨‍💻 About me:
 <p>Hey everyone, I'm Davi Soares, welcome to my portfolio!! I'm a Front End developer in constant evolution, <br> my focus is on the Web/Mobile development area and I'm passionate about the challenges that programming provides.</p> <img align='right' src="https://64.media.tumblr.com/tumblr_lwa95v31MU1qgwsj9o1_250.gif" width="150">
 
-# 📮 My Social Media:
+# 📮 Contact me:
 [![Linkedin: davisoares](https://img.shields.io/badge/-davisoares-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davisoares/)](https://www.linkedin.com/in/davi-soares-a6bb87263/)
 
 # 🛠 My Skills:
