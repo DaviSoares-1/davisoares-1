@@ -8,7 +8,7 @@
 
 - 👨‍🎓 I'm studying to get a **Computer Science degree!!**
 
-- 🌟 Fun fact **I love to play video games and walking**
+- 🕹️ Fun fact: **I love to play video games and walking**
 
 - 🚀 All of my projects are available at: (**🏗️ working on it ...**)
 
