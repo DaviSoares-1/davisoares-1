@@ -1,6 +1,5 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/DaviSoares-1/b56ed0c3c4c7b725f92c8c9db7648cd6/raw/fe9f19c768a48113c24c6658134442ddfc82f236/githubcard.svg"/>
 <h1 align="left">Hi, I'm Davi Soares 👊</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=davisoares-1&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 **Front End Developer & UI/UX Designer**
 
