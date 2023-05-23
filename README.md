@@ -6,8 +6,7 @@
 
 - 👨‍💻 I’m currently focusing on **Web/Mobile development area**
 
-- 👨‍🎓 I'm studying for the national college admission test, I wanna get
-**Computer Science degree!!**
+- 👨‍🎓 I'm studying to get a **Computer Science degree!!**
 
 - 🌟 Fun fact **I love to play video games and walking**
 
