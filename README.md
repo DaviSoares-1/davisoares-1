@@ -9,8 +9,6 @@
 
 - 👨‍🎓 I'm studying to get a **Computer Science degree!!**
 
-- 🕹️ Fun fact: **I love to play video games and walking**
-
 - 🚀 All of my projects are available at: (**🏗️ working on it ...**)
 
 <!--Replace for this link when your website is ready: [myWebsite](https://davisoares-1.dev)-->
