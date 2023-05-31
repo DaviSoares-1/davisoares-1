@@ -3,7 +3,7 @@
 
 - 🔥 **Front End Developer & UI/UX Designer**
 
-- ⚡ I'm 23 years old, and I live in Brazil - Rio de Janeiro/RJ.
+- ⚡ I'm 23 years old, and I live in **Brazil - Rio de Janeiro/RJ**.
 
 - 👨‍💻 I’m currently focusing on **Web/Mobile development area**
 
@@ -13,7 +13,7 @@
 
 <!--Replace for this link when your website is ready: [myWebsite](https://davisoares-1.dev)-->
 
-## 🛠️ Tech Stack
+<h2 align="left"> 🛠️ Tech Stack </h2>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
@@ -26,9 +26,9 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 
-## 📮 Contact
+<h2  align="left"> 📮 Contact </h2>
 
-<p align="left" style="background:yellow">
+<p align="left">
 <a href="https://www.linkedin.com/in/davi-soares-a6bb87263/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-davisoares-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
