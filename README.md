@@ -40,7 +40,4 @@
 <a href="https://codepen.io/davisoares-1" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-davisoares-05122A?style=flat&logo=codepen" alt="codepen"/>
 </a>
-<a href="https://www.youtube.com/channel/UCW5tnMrkb0j63q6l5LnfZRg" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-desencodadev-05122A?style=flat&logo=youtube" alt="youtube"/>
-</a>
 </p>
