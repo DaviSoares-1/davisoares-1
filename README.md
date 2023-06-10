@@ -3,7 +3,7 @@
 
 - 🔥 **Front End Developer & UI/UX Designer**
 
-- ⚡ I'm 23 years old, and I live in **Brazil - Rio de Janeiro/RJ**.
+- ⚡ I'm 24 years old, and I live in **Brazil - Rio de Janeiro/RJ**.
 
 - 👨‍💻 I’m currently focusing on **Web/Mobile development area**
 
