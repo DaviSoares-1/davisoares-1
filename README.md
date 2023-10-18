@@ -5,7 +5,7 @@
 
 - ⚡ I'm 24 years old, and I live in **Brazil - Rio de Janeiro/RJ**.
 
-- 👨‍💻 I’m currently focusing on **Web/Mobile development area**
+- 👨‍💻 I’m currently focusing on **Web development area**
 
 - 👨‍🎓 I'm studying to get a **Computer Science degree!!**
 
