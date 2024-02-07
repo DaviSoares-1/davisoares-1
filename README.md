@@ -1,7 +1,8 @@
-<img align="right" width="160px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXQ5ZW1ub2QzZjFlcG5lb2p3MXFhZ2FvaXp4Y3liMWZlaXl6M3Z6aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oz8xD60ymhwF35Xb2/giphy.gif"/>
 <h1>Hi there, I'm Davi Soares 👊</h1>
 
 - 🔥 **Mobile Developer**
+
+<img align="right" width="160px" margin="20px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXQ5ZW1ub2QzZjFlcG5lb2p3MXFhZ2FvaXp4Y3liMWZlaXl6M3Z6aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oz8xD60ymhwF35Xb2/giphy.gif"/>
 
 - ⚡ I'm 24 years old, and I live in **Brazil - Rio de Janeiro/RJ**.
 
