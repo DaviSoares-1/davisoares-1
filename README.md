@@ -41,7 +41,7 @@
   ![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=Swift)&nbsp;
 -->
 
-<h2  align="left"> 📮 Contact </h2>
+<h2 align="left"> 📮 Contact </h2>
 
 <p align="left">
 <a href="https://www.linkedin.com/in/davi-soares-a6bb87263/" target="_blank">
