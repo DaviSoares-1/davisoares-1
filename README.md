@@ -6,9 +6,11 @@
 
 - ⚡ I'm 24 years old, and I live in **Brazil - Rio de Janeiro/RJ**.
 
-- 👨‍💻 I’m currently focusing on **hybrid & native Mobile Development**
+- 👨‍💻 I’m currently focusing on **Android/iOS Mobile Development**
 
-- 👨‍🎓 I'm studying to get a **Computer Science degree!!**
+- 👨‍🎓 I'm currently studying *Análise e Desenvolvimento de Sistemas* at **Descomplica**
+
+- 🏫 I'm doing *Meteorology* at **UFRJ**
 
 - 🚀 All of my projects are available at: (**🏗️ working on it ...**)
 
@@ -16,12 +18,12 @@
 
 <h2 align="left"> 🛠️ Tech Stack </h2>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![React Native](https://img.shields.io/badge/-React_Native-05122A?style=flat&logo=react)&nbsp;
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindCSS)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)&nbsp;
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=androidstudio)&nbsp;
+![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift)&nbsp;
+![Swift UI](https://img.shields.io/badge/-Swift%20UI-05122A?style=flat&logo=xcode)&nbsp;
+
 
 <!-- Adicionar estas Tech somente quando aprender!!-->
 
