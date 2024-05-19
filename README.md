@@ -18,28 +18,19 @@
 
 <h2 align="left"> 🛠️ Tech Stack </h2>
 
-![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=coffeescript)&nbsp;
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=androidstudio)&nbsp;
-![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift)&nbsp;
-![Swift UI](https://img.shields.io/badge/-Swift%20UI-05122A?style=flat&logo=xcode)&nbsp;
-![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Dart)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=Flutter)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=kotlin,java,androidstudio,swift,apple,dart,flutter,mysql)](https://skillicons.dev)
 
-
-<!-- Adicionar estas Tech somente quando aprender!!-->
+<!-- SKills logos!!-->
 
 <!--
-  ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-  ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-  ![Vue](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)&nbsp;
-  ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
-  ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=TailwindCss)&nbsp;
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
-  ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)&nbsp;
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)&nbsp;
+  ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=coffeescript)&nbsp;
+  ![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=androidstudio)&nbsp;
+  ![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift)&nbsp;
+  ![Swift UI](https://img.shields.io/badge/-Swift%20UI-05122A?style=flat&logo=xcode)&nbsp;
+  ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Dart)&nbsp;
+  ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=Flutter)&nbsp;
+  ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 -->
 
 <h2 align="left"> 📮 Contact </h2>
