@@ -6,11 +6,9 @@
 
 - ⚡ I'm 25 years old, and I live in **Brazil - Rio de Janeiro/RJ**.
 
-- 👨‍💻 I’m currently focusing on **Fullstack Web Development with ReactJS/NextJS and Java/SpringBoot & Mobile using React Native.**
+- 👨‍💻 I’m currently focusing on **Mobile Development Java & Kotlin/Android, Dart/Flutter. And SpringBoot & Golang for Backend.**
 
-- 👨‍🎓 I'm currently studying *Análise e Desenvolvimento de Sistemas* at **Descomplica**
-
-- 🏫 I'm doing *Meteorology* at **UFRJ**
+- 👨‍🎓 I'm studying *Análise e Desenvolvimento de Sistemas* at **Descomplica**
 
 - 🚀 All of my projects are available at: (**🏗️ working on it ...**)
 
@@ -18,7 +16,7 @@
 
 <h2 align="left"> 🛠️ Tech Stack </h2>
 
-[![My Skills](https://skillicons.dev/icons?i=html,tailwind,sass,js,ts,angular,react,nextjs,redux,java,spring,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,androidstudio,swift,dart,flutter,java,spring,go,postgres,git,docker,kubernetes)](https://skillicons.dev)
 
 <!-- SKills logos!!-->
 
