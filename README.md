@@ -6,7 +6,7 @@
 
 - ⚡ I'm 25 years old, and I live in **Brazil - Rio de Janeiro/RJ**.
 
-- 👨‍💻 I’m currently focusing on **Java/Springboot & Kotlin/Android**
+- 👨‍💻 I’m currently focusing on **Java/Spring Boot & Kotlin/Android**
 
 - 👨‍🎓 I'm studying *Análise e Desenvolvimento de Sistemas* at **Descomplica**
 
