@@ -6,7 +6,7 @@
 
 - ⚡ I'm 25 years old, and I live in **Brazil - Rio de Janeiro/RJ**.
 
-- 👨‍💻 I’m currently focusing on **Java/Spring Boot & Kotlin/Android**
+- 👨‍💻 I’m currently focusing on **Java/Spring Boot & JavaScript/ReactJS & React Native**
 
 - 👨‍🎓 I'm studying *Análise e Desenvolvimento de Sistemas* at **Descomplica**
 
@@ -16,7 +16,7 @@
 
 <h2 align="left"> 🛠️ Tech Stack </h2>
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,androidstudio,mysql,git,docker,kubernetes)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,js,ts,react,mysql,git,docker,kubernetes)](https://skillicons.dev)
 
 <!-- SKills logos!!-->
 
