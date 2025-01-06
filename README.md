@@ -2,7 +2,7 @@
 
 - 🔥 **Software Developer**
 
-<img align="right" width="200px" margin="40px" src="https://github.com/DaviSoares-1/davisoares-1/blob/main/duck.gif"/>
+<img align="right" width="200px" margin="100px" src="https://github.com/DaviSoares-1/davisoares-1/blob/main/duck.gif"/>
 
 - ⚡ I'm 25 years old, and I live in **Brazil - Rio de Janeiro/RJ**.
 
