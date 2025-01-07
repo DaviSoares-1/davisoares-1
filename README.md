@@ -35,12 +35,12 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/davi-soares-a6bb87263/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-davisoares-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-davisoares-05122A?style=flat&logo=maildotru" alt="linkedin"/>
 </a>
 <a href="https://www.frontendmentor.io/profile/DaviSoares-1" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-davisoares-05122A?style=flat&logo=frontendmentor" alt="frontendmentor"/>
 </a>
-<a href="https://codepen.io/davisoares-1" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-davisoares-05122A?style=flat&logo=codepen" alt="codepen"/>
+<a href="https://www.youtube.com/@CodeCafeComDev" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-CodeCafeComDev-05122A?style=flat&logo=youtube" alt="codepen"/>
 </a>
 </p>
